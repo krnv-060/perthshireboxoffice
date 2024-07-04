@@ -186,7 +186,6 @@ html {
 	text-decoration: none;
 	box-shadow: none;
 	line-height: 150%;
-	}
 }
 
 .ff_search_result_buy:hover {
@@ -270,7 +269,7 @@ html {
 	-moz-opacity: 0.8;
 	opacity:.80;
 	filter: alpha(opacity=80);
-	z-inxex: 10000;
+	z-index: 10000;
 }
 
 #ff_basket {
